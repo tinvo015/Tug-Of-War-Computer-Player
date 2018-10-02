@@ -1,0 +1,2 @@
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Warning (10034): Output port "LEDR[0]" at tugofwar.sv(6) has no driver File: U:/EE 271/Lab 7/tugofwar.sv Line: 6
